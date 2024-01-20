@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Jayesh Pawar - Quick Access",
+  "description": "Quick access to @pawarjayesh683",
+  "version": "1.0.0",
+  "icons": {
+    "16": "images/chrome/chrome-favicon-16-16.png",
+    "48": "images/chrome/chrome-extensionmanagementpage-48-48.png",
+    "128": "images/chrome/chrome-installprocess-128-128.png"
+  },
+  "action": {
+    "default_icon": "images/Square150x150Logo.scale-150.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
